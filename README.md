@@ -29,7 +29,6 @@ Treats by the Bay LLC || 1550 04TH ST
 --------------------Please choose from below options---------------------------
 1. next  3. refresh 4. exit
 -------------------------------------------------------------------------------
-####################################################################
 Your choice (Should be one of above mentioned options) :
 1
 Name || Address
@@ -40,7 +39,6 @@ Wu Wei LLC dba MoBowl || 370 DRUMM ST
 --------------------Please choose from below options---------------------------
 2. previous 3. refresh 4. exit
 -------------------------------------------------------------------------------
-####################################################################
 Your choice (Should be one of above mentioned options) :
 4
  
