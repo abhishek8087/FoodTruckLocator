@@ -10,7 +10,7 @@ It generates a FoodTruckLocator.jar in target directory.
 
 You can download latest jar from https://github.com/abhishek8087/FoodTruckLocator/blob/master/target/FoodTruckLocator.jar
 
-Sample run :
+Sample run : [Please read below line in edit mode]
 
 C:\AA\Code\FoodTruckLocator\target>java -jar FoodTruckLocator.jar
 
