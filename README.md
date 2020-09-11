@@ -13,6 +13,9 @@ You can download latest jar from https://github.com/abhishek8087/FoodTruckLocato
 Sample run :
 
 C:\AA\Code\FoodTruckLocator\target>java -jar FoodTruckLocator.jar
+
+
+C:\AA\Code\FoodTruckLocator\target>java -jar FoodTruckLocator.jar
 ***** Food Trucks Available now ******
 Name || Address
 San Francisco's Hometown Creamery || 281 GEARY ST
